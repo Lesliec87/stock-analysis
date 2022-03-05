@@ -18,13 +18,17 @@ For both years we have included the stocks of 12 different organizations where w
 
 All Stocks(2017): 
 
-![Stocks2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2017).png)
+![Stocks2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2017).png)
 
 All Stocks(2018): 
 
-![Stocks2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2018).png)
+![Stocks2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2018).png)
 
-To get this anlysis we had to refactor our code by addind 
+After running successfully the code we were able to confirm that they now run in less time, for 2018 the time was around 0.133 seconds and for 2017 the time was around o.125 seconds. Review the time performed for both years below: 
+
+![time2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2017.png)
+
+![time2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
 
 
 
