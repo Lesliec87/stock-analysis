@@ -16,9 +16,15 @@ We were able to refactor the code succesfully for 3012 stocks from the past two 
 
 For both years we have included the stocks of 12 different organizations where we collected their Total Daily Volumes and Returns. 
 
+All Stocks(2017): 
+
+![Stocks2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2017).png)
+
 All Stocks(2018): 
 
-![Stocks92018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
+![Stocks2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2018).png)
+
+To get this anlysis we had to refactor our code by addind 
 
 
 
