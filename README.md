@@ -16,11 +16,11 @@ We were able to refactor the code succesfully for 3012 stocks from the past two 
 
 For both years we have included the stocks of 12 different organizations where we collected their Total Daily Volumes and Returns. 
 
-###All Stocks(2017): 
+### All Stocks(2017): 
 
 ![Stocks2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2017).png)
 
-###All Stocks(2018): 
+### All Stocks(2018): 
 
 ![Stocks2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Stocks(2018).png)
 
