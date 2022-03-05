@@ -18,7 +18,7 @@ For both years we have included the stocks of 12 different organizations where w
 
 All Stocks(2018): 
 
-<img width="847" alt="Screen Shot 2022-03-05 at 3 50 34 PM" src="https://user-images.githubusercontent.com/99294497/156901203-231126de-880c-4cf7-88a9-a9c5dc6980f4.png">
+![Stocks92018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
 
 
 
