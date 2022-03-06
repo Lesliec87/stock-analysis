@@ -12,9 +12,7 @@ The purpose of this project is to refactor the code so we can run it succesfully
 
 ## Results:
 
-We were able to refactor the code succesfully for 3012 stocks from the past two years (2017 and 2018). 
-
-For both years we have included the stocks of 12 different organizations where we collected their Total Daily Volumes and Returns. 
+1. We were able to refactor the code succesfully for 3012 stocks from the past two years (2017 and 2018). For both years we have included the stocks of 12 different organizations where we collected their Total Daily Volumes and Returns. 
 
 ### All Stocks 2017: 
 
@@ -29,13 +27,21 @@ For both years we have included the stocks of 12 different organizations where w
 - As for DAQO they had a 199.4% positive return in 2017 and a 62.6% negative return in 2018. 
 - Ultimately, Steve can advise his parents to diversify into ENPH stocks and RUN stocks since they have consistently had positive returns for the past 2 years. 
 
-After running successfully the code we were able to confirm that they now run in less time, for 2018 the time was around 0.133 seconds and for 2017 the time was around o.125 seconds. Review the time performed for both years below: 
+2. After running successfully the code we were able to confirm that they now run in less time, for 2018 the time was around 0.133 seconds and for 2017 the time was around o.125 seconds. Review the time performed for both years below: 
 
 ![time2017](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2017.png)
 
 ![time2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
 
-To have a more efficient way for the code to run for a more extended database in this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for [All Stocks 2017](#All-Stocks-2017) and [All Stocks 2018](#All-Stocks-2018).
+3. To have a more efficient way for the code to run for a more extended database in this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for [All Stocks 2017](#All-Stocks-2017) and [All Stocks 2018](#All-Stocks-2018).
+
+Below you can see the code that as it was finally ran: 
+
+![code1](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Code%201.png)
+
+![code2](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Code%202.png)
+
+![code3](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Code%203.png)
 
 
 
