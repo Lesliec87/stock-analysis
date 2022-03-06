@@ -35,7 +35,9 @@ After running successfully the code we were able to confirm that they now run in
 
 ![time2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
 
-To have a more efficient way for the code to run this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for (#All-Stocks-2017) and (#All-Stocks-2018).
+To have a more efficient way for the code to run for a more extended database in this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for [All Stocks 2017](#All-Stocks-2017) and [All Stocks 2018](#All-Stocks-2018).
+
+
 
 
 
