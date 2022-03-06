@@ -55,6 +55,6 @@ In this analysis we were able to assist Steve with getting sufficient data on wh
 
 **How do these pros and cons apply to refactoring the original VBA script?**
 
-- The pros were determined by the change in time it took in running for the original code [green_stocks](green_stocks.xlsm) the times for both years were from 0.55 seconds to 0.75 seconds and in the refactored code the times lowered to run from 0.125 seconds to 0.135 seconds. 
+- The pros were determined by the change in time it took in running for the original code from [green_stocks](green_stocks.xlsm) the times for both years were from 0.55 seconds to 0.75 seconds and in the refactored code the times lowered to run from 0.125 seconds to 0.135 seconds. 
 - The cons were that the time to debug the refactored code was definitely a lot longer since the code was a bit more complex to figure out and you need to take that time into consideration for a projects deadline.
 
