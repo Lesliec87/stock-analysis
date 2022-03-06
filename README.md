@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview of Project: 
-In this project we are assisting Steve, who has recently graduated from his finance degree and has taken on his parents as his first clients. His parents are eager belivers in green energy becoming more promonent in the future and are started investing in green energy stocks. 
+In this project we are assisting Steve, who has recently graduated from his finance degree and has taken on his parents as his first clients. His parents are eager belivers in green energy becoming more promonent in the future and have started investing in green energy stocks. 
 
 However, they had not done much research on this and recently invested all their money into a company called DAQO New Energy Corp. Steve is looking into DAQO stock and also wanting to analyse a handful of other green energy stocks to determine, if his parents need to diversify their funds.
 
