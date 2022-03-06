@@ -5,7 +5,7 @@ In this project we are assisting Steve, who has recently graduated from his fina
 
 However, they had not done much research on this and recently invested all their money into a company called DAQO New Energy Corp. Steve is looking into DAQO stock and also wanting to analyse a handful of other green energy stocks to determine, if his parents need to diversify their funds.
 
-We have been working with the excel file Steve created containing the stocks data and he is happy with the workbook he can at the click of a button, analyze an entire datase. Steve wants to do a bit more research where the database includes the entire stock market over the last few years. 
+We have been working with the excel file Steve created containing the stocks data and he wants to do a bit more research where the database includes the entire stock market over the last few years. 
 
 ### Purpose:
 The purpose of this project is to refactor the code so we can run it succesfully when analysing thousands of stocks instead of only a dozen stocks and we will determine if refactoring the code it now runs faster. 
