@@ -8,7 +8,7 @@ However, they had not done much research on this and recently invested all their
 We have been working with the excel file Steve created containing the stocks data and he wants to do a bit more research where the database includes the entire stock market over the last few years. 
 
 ### Purpose:
-The purpose of this project is to refactor the code so we can run it succesfully when analysing thousands of stocks instead of only a dozen stocks and we will determine if refactoring the code it now runs faster. 
+The purpose of this project is to refactor the code that we already succesfully run to analyse the thousands of stocks and determine if refactoring the code can run faster. 
 
 ## Results:
 
@@ -33,9 +33,9 @@ The purpose of this project is to refactor the code so we can run it succesfully
 
 ![time2018](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/VBA_Challenge_2018.png)
 
-3. To have a more efficient way for the code to run for a more extended database in this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for [All Stocks 2017](#All-Stocks-2017) and [All Stocks 2018](#All-Stocks-2018).
+3. To have a more efficient way for the code to run for an extended database in this analysis we added a "tickerIndex" to access the correct index across the four different arrays which consisted of the 12 tickers array and the three output arrays: tickerVolumes, tickerStartingPrices and tickerEndingPrices. This was used to create the "For loops" that ran through each row and pulled the information to get the results for [All Stocks 2017](#All-Stocks-2017) and [All Stocks 2018](#All-Stocks-2018).
 
-**Below you can see the code that as it was finally ran:** 
+**Below you can see the refactored code:** 
 
 ![code1](https://github.com/Lesliec87/stock-analysis/blob/main/Resources%202/Code%201.png)
 
@@ -46,12 +46,12 @@ The purpose of this project is to refactor the code so we can run it succesfully
 
 ## Summary: 
 
-In this analysis we were able to assist Steve with getting sufficient data on what the best green stocks that his parents could potentially invest in to diversify their investment and if their current investment in DAQO has been a profitable investiment for the future. 
+In this analysis we were able to assist Steve with getting sufficient data on what the best green energy stocks that his parents could potentially invest in to diversify their investment and if their current investment in DAQO has been a profitable investiment for the future. 
 
 **What are the advantages or disadvantages of refactoring code?**
 
--The advantages of refactoring the code were that we could expand the amount of data we could run, faster time to run the code than the original code and Steve  will now be able to apply this to his future clients he might have interested in investing. 
--However, the disadvantages about refactoring the code is that it is a bit more time consuming and more debugging to go through since you have to make changes to original code. 
+-The advantages of refactoring the code was that we could expand the amount of data we could run, faster time to run the code than the original code and Steve  will now be able to apply this to his future clients who might have interest in investing in green energy stocks. 
+-However, the disadvantages about refactoring the code is that it is a bit more time consuming and more debugging to go through since you have to make several changes to original code. 
 
 **How do these pros and cons apply to refactoring the original VBA script?**
 
